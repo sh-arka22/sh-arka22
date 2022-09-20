@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 🤖👋🏻, I'm Arkajyoti Saha</h1>
-<h3 align="center">A passionate Problem Solver, philomath and holds interest in Backend Developer</h3>
+<h3 align="center">A passionate Problem Solver, philomath and holds interest in Backend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-arka22&label=Profile%20views&color=0e75b6&style=flat" alt="sh-arka22" /> </p>
 
