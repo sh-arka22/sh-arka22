@@ -15,7 +15,7 @@
 </p>
 
 ### Education
-- MSc Machine Learning in Science (2:1), Queen Mary University of London, 2024–2025
+- MSc Machine Learning in Science (Distinction), Queen Mary University of London, 2024–2025
 - BTech Electronics and Communication Engineering (1st), VIT Vellore, 2018–2022
 
 ### Work Experience
