@@ -138,14 +138,23 @@ Fixed Income          │ Bond Pricing, Duration, Convexity, Yield Curve Bootstr
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-arka22&show_icons=true&locale=en&layout=compact&theme=dark" alt="sh-arka22" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh-arka22&show_icons=true&locale=en&theme=dark&hide_border=true" alt="sh-arka22" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-arka22&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="sh-arka22" height="165"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-arka22&show_icons=true&locale=en&theme=dark" alt="sh-arka22" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-arka22&theme=dark&hide_border=true" alt="sh-arka22" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-arka22&theme=dark" alt="sh-arka22" />
-<
+### 🔥 Contribution Highlights
+
+| Metric | Value |
+|--------|-------|
+| 📅 Total Contributions | **3,354** *(Sep 2021 – Present)* |
+| 🏆 Longest Streak | **71 days** *(Aug 30 – Nov 8, 2022)* |
+| 💻 Active Since | Sep 29, 2021 |
+
+---
+
+*Actively seeking Quant Engineer / ML Engineer roles in London · Open to relocation across the UK*
