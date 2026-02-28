@@ -1,50 +1,154 @@
-<h1 align="center">Hi 🤖👋🏻, I'm Arkajyoti Saha</h1>
-<h3 align="center">Machine Learning Graduate Seeking ML Engineer or Software Development Roles</h3>
+<h1 align="center">Hi 👋, I'm Arkajyoti Saha</h1>
+<h3 align="center">MSc Machine Learning (Distinction) · Quantitative Finance & ML Engineer · London, UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-arka22&label=Profile%20views&color=0e75b6&style=flat" alt="sh-arka22" /> </p>
-
-- 📫 How to reach me **sahaarkajyoti2018@gmail.com** | Mobile: +44-07587120110 | Address: London, UK
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saha22_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/saha22_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arkajyoti-saha-likdien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkajyoti-saha-likdien" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_arka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_arka_" height="30" width="40" /></a>
-<a href="https://leetcode.com/_nemesis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_nemesis_/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codingresources2021/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/codingresources2021/practice" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sh-arka22&label=Profile%20views&color=0e75b6&style=flat" alt="sh-arka22" />
 </p>
 
-### Education
-- MSc Machine Learning in Science (Distinction), Queen Mary University of London, 2024–2025
-- BTech Electronics and Communication Engineering (1st), VIT Vellore, 2018–2022
+📍 **London, UK** &nbsp;|&nbsp; 📫 sahaarkajyoti2018@gmail.com &nbsp;|&nbsp; 📱 +44 07587 120110
 
-### Work Experience
-- Software Development Intern, IT ELEGENT, London, July 2025–Present
-- Teaching Assistant (DSA), Stealth Startup, Sept 2023–Jan 2024
-- Teaching Assistant (System Design), Coding Ninjas, March–Aug 2023
-- Software Backend Developer-1, Lets-Transport, Sept 2022–Dec 2023
+---
 
-### Academic Projects
-- Deep Learning Model Comparative Analysis: MNIST & CIFAR-10 (TensorFlow, Python)
-- Multi-Algorithm Route Optimisation for Emergency Response (TensorFlow, Python)
-- Quantum-Trading: ML Stock Forecasting Platform (TensorFlow, Python)
+## 🎯 About Me
 
-### Technical Skills
-- Languages: Java, Python, C++, SQL, Bash, JavaScript
-- Cloud/DevOps: AWS, Docker, Kubernetes
-- Libraries/Tools: NumPy, Pandas, TensorFlow, PyTorch, Redis
-- Performance: Low-latency Java, memory optimisation
+I'm a **Machine Learning graduate (Distinction)** from Queen Mary University of London with a strong foundation in **quantitative finance**, **LLM engineering**, and **high-performance C++ systems**. I'm actively targeting **Quant Engineer / ML Engineer** roles at top-tier firms including Citadel, Jane Street, Two Sigma, Tower Research, JP Morgan, and Goldman Sachs.
 
-### Certifications
+My work spans end-to-end ML pipelines (RAG, fine-tuning, MLOps), stochastic calculus and derivatives pricing, and low-latency systems design — bridging the gap between theoretical rigor and production-grade engineering.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [MoodSwarm — LLM Twin System](https://github.com/sh-arka22)
+> *Production MLOps · RAG Pipelines · ZenML · Qdrant*
+
+Engineered a full **LLM Twin** that learns writing styles from digital content to answer questions in someone's authentic voice. Built on the **Feature-Training-Inference (FTI) pipeline** architecture.
+- Designed advanced RAG pipeline with hybrid search (BM25 + vector), reranking, and query expansion over **Qdrant** vector database
+- Orchestrated end-to-end training and inference pipelines with **ZenML** and experiment tracking via **Comet ML**
+- Implemented supervised fine-tuning with **LoRA/QLoRA** and DPO preference alignment
+
+---
+
+### ⚡ Nexus — High-Performance Order Book Matching Engine *(In Progress)*
+> *C++ · Lock-Free Data Structures · SIMD Optimisation · Low-Latency*
+
+Building a production-grade **order book matching engine** targeting sub-microsecond latency:
+- Lock-free queue implementation using **C++ atomics** and memory ordering guarantees
+- SIMD-optimised price comparison routines for L1/L2 order book updates
+- Benchmarked against industry-standard engines; targeting **< 1μs** matching latency
+
+---
+
+### 🌿 GreenGrid UK — Energy Demand Forecasting Platform
+> *GCP · MLOps · Time Series · Python*
+
+Designed a **production MLOps portfolio project** for UK AI market, forecasting energy demand using ensemble ML models on GCP's free tier with full CI/CD pipelines.
+
+---
+
+### 📄 PageSage UK — Multimodal Document Intelligence
+> *RAG · Vision Models · GCP · FastAPI*
+
+Architected a **multimodal document intelligence** system combining vision encoders and RAG pipelines for intelligent document Q&A, engineered for the UK AI job market.
+
+---
+
+### 📈 Quantum-Trading — ML Stock Forecasting Platform
+> *TensorFlow · Stochastic Models · Python*
+
+Built a quantitative trading research platform integrating ML forecasting with derivatives pricing theory (Black-Scholes, binomial trees, Monte Carlo with variance reduction).
+
+---
+
+## 🧮 Quantitative Finance Expertise
+
+```
+Options Pricing       │ Black-Scholes (PDE + risk-neutral), Binomial Trees, Monte Carlo
+Greeks                │ Δ Γ Θ V ρ — computation, hedging, second-order (Vanna, Volga, Charm)
+Stochastic Calculus   │ Itô's Lemma, GBM, Girsanov Theorem, Feynman-Kac, Martingale Theory
+Risk Management       │ VaR (historical, parametric, MC), Expected Shortfall, CVaR
+Market Microstructure │ Order Book Dynamics, Avellaneda-Stoikov, Almgren-Chriss Execution
+SDEs                  │ GBM, Ornstein-Uhlenbeck, CIR, Heston Stochastic Volatility
+Fixed Income          │ Bond Pricing, Duration, Convexity, Yield Curve Bootstrapping
+```
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+`C++` `Python` `Java` `SQL` `Bash` `JavaScript`
+
+**ML / AI**
+`PyTorch` `TensorFlow` `scikit-learn` `Transformers` `LoRA` `QLoRA` `DPO`
+
+**LLM & RAG**
+`LangChain` `LlamaIndex` `Qdrant` `ChromaDB` `vLLM` `FastAPI` `ZenML` `Comet ML`
+
+**Cloud & DevOps**
+`AWS` `GCP` `Docker` `Kubernetes` `CI/CD` `GitHub Actions`
+
+**Quant / Finance**
+`NumPy` `Pandas` `SciPy` `QuantLib` `Monte Carlo` `Stochastic Calculus`
+
+**Performance Engineering**
+`Lock-Free Data Structures` `SIMD` `Memory Optimisation` `Low-Latency C++`
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Grade | Year |
+|--------|------------|-------|------|
+| MSc Machine Learning in Science | Queen Mary University of London | **Distinction** | 2024–2025 |
+| BTech Electronics & Communication Engineering | VIT Vellore | **1st Class** | 2018–2022 |
+
+---
+
+## 💼 Experience
+
+- **Software Development Intern** — IT ELEGENT, London *(July 2025–Present)*
+- **Teaching Assistant (DSA)** — Stealth Startup *(Sept 2023–Jan 2024)*
+- **Teaching Assistant (System Design)** — Coding Ninjas *(March–Aug 2023)*
+- **Software Backend Developer** — Lets-Transport *(Sept 2022–Dec 2023)*
+
+---
+
+## 📜 Certifications
+
 - AlgoExpert (2023)
-- Sequence Models (Coursera, 2025)
-- Neural Networks and Deep Learning (Coursera, 2025)
+- Sequence Models — Coursera / DeepLearning.AI (2025)
+- Neural Networks and Deep Learning — Coursera / DeepLearning.AI (2025)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-arka22&show_icons=true&locale=en&layout=compact" alt="sh-arka22" /></p>
+## 🌐 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-arka22&show_icons=true&locale=en" alt="sh-arka22" /></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/arkajyoti-saha-likdien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/_nemesis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_arka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://twitter.com/saha22_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-arka22&" alt="sh-arka22" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-arka22&show_icons=true&locale=en&layout=compact&theme=dark" alt="sh-arka22" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-arka22&show_icons=true&locale=en&theme=dark" alt="sh-arka22" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-arka22&theme=dark" alt="sh-arka22" />
+</p>
+
+<br clear="left"/>
+
+---
+
+*Actively seeking Quant Engineer / ML Engineer roles in London · Open to relocation across the UK*
