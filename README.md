@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sh-arka22&label=Profile%20views&color=0e75b6&style=flat" alt="sh-arka22" />
 </p>
 
-📍 **London, UK** &nbsp;|&nbsp; 📫 sahaarkajyoti2018@gmail.com &nbsp;|&nbsp; 📱 +44 07587 120110
+📍 **London, UK** &nbsp;|&nbsp; 📫 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f88b999099998a93999281978c91cac8c9c0b89f95999194d69b9795">[email&#160;protected]</a> &nbsp;|&nbsp; 📱 +44 07587 120110
 
 ---
 
@@ -107,6 +107,9 @@ Fixed Income          │ Bond Pricing, Duration, Convexity, Yield Curve Bootstr
 
 ## 💼 Experience
 
+- **Machine Learning Engineer** — [Gaston AI](https://gastonai.com), London, UK *(Present)*
+  > UK FoodTech AI startup building nutrigenomics-based personalised food recommendations using biomarkers, genomic profiling, and ML models. Developing and deploying AI/ML systems powering hyper-personalised nutrition recommendations across B2B SaaS integrations with restaurants, grocery platforms, and health providers.
+
 - **Software Development Intern** — IT ELEGENT, London *(July 2025–Present)*
 - **Teaching Assistant (DSA)** — Stealth Startup *(Sept 2023–Jan 2024)*
 - **Teaching Assistant (System Design)** — Coding Ninjas *(March–Aug 2023)*
@@ -145,10 +148,4 @@ Fixed Income          │ Bond Pricing, Duration, Convexity, Yield Curve Bootstr
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-arka22&theme=dark" alt="sh-arka22" />
-</p>
-
-<br clear="left"/>
-
----
-
-*Actively seeking Quant Engineer / ML Engineer roles in London · Open to relocation across the UK*
+<
