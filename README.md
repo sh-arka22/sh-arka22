@@ -11,7 +11,7 @@
 
 ## 🎯 About Me
 
-I'm a **Machine Learning graduate (Distinction)** from Queen Mary University of London with a strong foundation in **quantitative finance**, **LLM engineering**, and **high-performance C++ systems**. I'm actively targeting **Quant Engineer / ML Engineer** roles at top-tier firms including Citadel, Jane Street, Two Sigma, Tower Research, JP Morgan, and Goldman Sachs.
+I'm a **Machine Learning graduate (Distinction)** from Queen Mary University of London with a strong foundation in **quantitative finance**, **LLM engineering**, and **high-performance C++ systems**. I'm actively targeting **Quant Engineer / ML Engineer** roles at Machine Leaning and Quantitative field with development and research heavy role.
 
 My work spans end-to-end ML pipelines (RAG, fine-tuning, MLOps), stochastic calculus and derivatives pricing, and low-latency systems design — bridging the gap between theoretical rigor and production-grade engineering.
 
